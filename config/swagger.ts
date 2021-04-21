@@ -14,9 +14,9 @@ export default {
     definition: {
       openapi: '3.0.0',
       info: {
-        title: 'Application for sanbercode training programs',
+        title: 'REST API Main Bersama',
         version: '1.0.0',
-        description: 'Documentation for last project of sanbercode'
+        description: 'Documentation for final project of Backend dev with Adonis By Sanbercode'
       },
       components: {
         securitySchemes: {
